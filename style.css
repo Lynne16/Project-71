@@ -1,0 +1,96 @@
+#marqueeStyle{
+    background-color: lightblue;
+}
+
+#details img{
+    border-radius: 40px;
+    height: 200px;
+    
+}
+.row:after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.travel_mainDiv{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid white;
+}
+
+.travel_mainDiv hr{
+    width: 100%
+}
+.travel_mainDiv h5 , .travl_mainDiv p{
+
+    margin-left: 20px;
+}
+#lib{
+    width: 100%;
+    height: 300px;
+}
+#ground{
+    width: 100%;
+    height: 300px;
+}
+#chem{
+    width: 100%;
+       height: 300px;
+}
+.travel_mainDiv h4{
+    margin-left: 20px;
+}
+#achievementsID{
+    padding-bottom: 10px;
+}
+.movie_head{
+    font-size 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: orange;
+}
+.whatsnew_li{
+    margin-top: 13px;
+}
+.whatsnewt_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+    
+}
+
+.whatsnew_li img{
+    border-radius: 25px;
+}
+.whatsnew_li p{
+    margin-top: 10px;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img-modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+MK{
+    height: 100px;
+}
